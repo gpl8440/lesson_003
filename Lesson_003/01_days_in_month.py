@@ -12,3 +12,5 @@ month = int(user_input)
 print('Вы ввели', month)
 
 # TODO здесь ваш код
+
+tuple
